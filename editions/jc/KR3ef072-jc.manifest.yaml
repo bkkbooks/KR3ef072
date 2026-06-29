@@ -1,0 +1,1004 @@
+canonical_identifier: bkk:krp/KR3ef072/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef072/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒治例
+  identifiers:
+    krp: KR3ef072
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef072.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef072_000-jc.yaml, hash: 'sha256:95059bff9c08c0e827901f2b780b5b5d9a616376ae4ec475e84dcc8a75a6b710'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef072_000-jc.markers.yaml, hash: 'sha256:4569c7529d92c5b4fbc7403f44bc7ca1435a4fdf05f52faddc5d7d833c935a23'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 209
+  label: 傷寒治例引
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3.h1s1
+    span:
+    - body
+    - 209
+    - 16833
+  label: 傷寒治例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d2
+    span:
+    - body
+    - 213
+    - 1863
+  label: 發熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d3
+    span:
+    - body
+    - 1863
+    - 1917
+  label: 發熱反欲得衣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d4
+    span:
+    - body
+    - 1917
+    - 1979
+  label: 身寒反不欲近衣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d5
+    span:
+    - body
+    - 1979
+    - 2020
+  label: 惡寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d6
+    span:
+    - body
+    - 2020
+    - 2050
+  label: 一身盡寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d7
+    span:
+    - body
+    - 2050
+    - 2306
+  label: 背惡寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d8
+    span:
+    - body
+    - 2306
+    - 2489
+  label: 惡風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d9
+    span:
+    - body
+    - 2489
+    - 2688
+  label: 寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d10
+    span:
+    - body
+    - 2688
+    - 2717
+  label: 熱多寒少
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d11
+    span:
+    - body
+    - 2717
+    - 2766
+  label: 寒多熱少
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d12
+    span:
+    - body
+    - 2766
+    - 2850
+  label: 潮熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d13
+    span:
+    - body
+    - 2850
+    - 3184
+  label: 自汗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d14
+    span:
+    - body
+    - 3184
+    - 3257
+  label: 盜汗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d15
+    span:
+    - body
+    - 3257
+    - 3379
+  label: 頭汗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d16
+    span:
+    - body
+    - 3379
+    - 3438
+  label: 手足汗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d17
+    span:
+    - body
+    - 3438
+    - 3569
+  label: 無汗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d18
+    span:
+    - body
+    - 3569
+    - 3934
+  label: 頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d19
+    span:
+    - body
+    - 3934
+    - 3985
+  label: 項強
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d20
+    span:
+    - body
+    - 3985
+    - 4106
+  label: 頭眩
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d21
+    span:
+    - body
+    - 4106
+    - 4288
+  label: 胸脅滿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d22
+    span:
+    - body
+    - 4288
+    - 4525
+  label: 心下滿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d23
+    span:
+    - body
+    - 4525
+    - 5064
+  label: 結胸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d24
+    span:
+    - body
+    - 5064
+    - 5405
+  label: 痞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d25
+    span:
+    - body
+    - 5405
+    - 5679
+  label: 咳逆
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d26
+    span:
+    - body
+    - 5679
+    - 5891
+  label: 腹脹滿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d27
+    span:
+    - body
+    - 5891
+    - 6007
+  label: 少腹滿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d28
+    span:
+    - body
+    - 6007
+    - 6297
+  label: 煩熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d29
+    span:
+    - body
+    - 6297
+    - 6770
+  label: 煩躁
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d30
+    span:
+    - body
+    - 6770
+    - 6875
+  label: 懊憹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d31
+    span:
+    - body
+    - 6875
+    - 7027
+  label: 舌上苔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d32
+    span:
+    - body
+    - 7027
+    - 7243
+  label: 衄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d33
+    span:
+    - body
+    - 7243
+    - 7323
+  label: 畜血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d34
+    span:
+    - body
+    - 7323
+    - 7572
+  label: 下血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d35
+    span:
+    - body
+    - 7572
+    - 7696
+  label: 吐血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d36
+    span:
+    - body
+    - 7696
+    - 7861
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d37
+    span:
+    - body
+    - 7861
+    - 8168
+  label: 喘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d38
+    span:
+    - body
+    - 8168
+    - 8615
+  label: 嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d39
+    span:
+    - body
+    - 8615
+    - 8867
+  label: 悸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d40
+    span:
+    - body
+    - 8867
+    - 9000
+  label: 驚惕
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d41
+    span:
+    - body
+    - 9000
+    - 9445
+  label: 渴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d42
+    span:
+    - body
+    - 9445
+    - 9600
+  label: 振
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d43
+    span:
+    - body
+    - 9600
+    - 9729
+  label: 戰慄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d44
+    span:
+    - body
+    - 9729
+    - 9774
+  label: 搖頭
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d45
+    span:
+    - body
+    - 9774
+    - 10026
+  label: 四逆
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d46
+    span:
+    - body
+    - 10026
+    - 10605
+  label: 厥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d47
+    span:
+    - body
+    - 10605
+    - 10682
+  label: 鄭聲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d48
+    span:
+    - body
+    - 10682
+    - 11113
+  label: 譫語
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d49
+    span:
+    - body
+    - 11113
+    - 11273
+  label: 短氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d50
+    span:
+    - body
+    - 11273
+    - 11375
+  label: 瘈瘲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d51
+    span:
+    - body
+    - 11375
+    - 11462
+  label: 筋惕肉瞤
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d52
+    span:
+    - body
+    - 11462
+    - 11607
+  label: 鬱冒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d53
+    span:
+    - body
+    - 11607
+    - 11730
+  label: 動氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d54
+    span:
+    - body
+    - 11730
+    - 12199
+  label: 自利
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d55
+    span:
+    - body
+    - 12199
+    - 12485
+  label: 熱入血室
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d56
+    span:
+    - body
+    - 12485
+    - 12877
+  label: 發黃
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d57
+    span:
+    - body
+    - 12877
+    - 13380
+  label: 發狂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d58
+    span:
+    - body
+    - 13380
+    - 13720
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d59
+    span:
+    - body
+    - 13720
+    - 13806
+  label: 勞復
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d60
+    span:
+    - body
+    - 13806
+    - 13849
+  label: 陰陽易
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d61
+    span:
+    - body
+    - 13849
+    - 14196
+  label: 大便不利
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d62
+    span:
+    - body
+    - 14196
+    - 14253
+  label: 脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d63
+    span:
+    - body
+    - 14253
+    - 14458
+  label: 腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d64
+    span:
+    - body
+    - 14458
+    - 14607
+  label: 咽痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d65
+    span:
+    - body
+    - 14607
+    - 14634
+  label: 蛔厥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d66
+    span:
+    - body
+    - 14634
+    - 14680
+  label: 陽證陽毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d67
+    span:
+    - body
+    - 14680
+    - 14783
+  label: 陰證陰毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d68
+    span:
+    - body
+    - 14783
+    - 14824
+  label: 太陽陽明合病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d69
+    span:
+    - body
+    - 14824
+    - 14869
+  label: 太陽少陽合病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d70
+    span:
+    - body
+    - 14869
+    - 14902
+  label: 三陽合病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d71
+    span:
+    - body
+    - 14902
+    - 14934
+  label: 太陽少陽並病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d72
+    span:
+    - body
+    - 14934
+    - 15031
+  label: 陰證似陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d73
+    span:
+    - body
+    - 15031
+    - 15064
+  label: 陽證似陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d74
+    span:
+    - body
+    - 15064
+    - 15099
+  label: 陰盛隔陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d75
+    span:
+    - body
+    - 15099
+    - 15104
+  label: 陽盛拒陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d76
+    span:
+    - body
+    - 15104
+    - 15255
+  label: 癍
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d77
+    span:
+    - body
+    - 15255
+    - 15313
+  label: 晝夜偏劇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d78
+    span:
+    - body
+    - 15313
+    - 15373
+  label: 口燥咽乾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d79
+    span:
+    - body
+    - 15373
+    - 15426
+  label: 百合病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d80
+    span:
+    - body
+    - 15426
+    - 15510
+  label: 狐惑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d81
+    span:
+    - body
+    - 15510
+    - 15541
+  label: 漱水不欲咽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d82
+    span:
+    - body
+    - 15541
+    - 15670
+  label: 水氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d83
+    span:
+    - body
+    - 15670
+    - 15992
+  label: 小便不利
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d84
+    span:
+    - body
+    - 15992
+    - 16086
+  label: 陽痓
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d85
+    span:
+    - body
+    - 16086
+    - 16177
+  label: 陰痓
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d86
+    span:
+    - body
+    - 16177
+    - 16355
+  label: 不仁
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d87
+    span:
+    - body
+    - 16355
+    - 16470
+  label: 直視
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d88
+    span:
+    - body
+    - 16470
+    - 16519
+  label: 遺尿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d89
+    span:
+    - body
+    - 16519
+    - 16544
+  label: 循衣摸床
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d90
+    span:
+    - body
+    - 16544
+    - 16580
+  label: 溫病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d91
+    span:
+    - body
+    - 16580
+    - 16623
+  label: 溫瘧
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d92
+    span:
+    - body
+    - 16623
+    - 16688
+  label: 風溫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d93
+    span:
+    - body
+    - 16688
+    - 16690
+  label: 溫疫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d94
+    span:
+    - body
+    - 16690
+    - 16717
+  label: 溫毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d95
+    span:
+    - body
+    - 16717
+    - 16742
+  label: 濕溫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d96
+    span:
+    - body
+    - 16742
+    - 16789
+  label: 暑證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef072_jc_000-d3d97
+    span:
+    - body
+    - 16789
+    - 16833
+  label: 暍證
+  type: section
+  level: 2
+hash: sha256:cfda32035f8e16ba72955f876daef3670477895946ac516303471b47d69638a3
