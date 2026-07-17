@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ef072_000-jc.yaml, hash: 'sha256:95059bff9c08c0e827901f2b780b5b5d9a616376ae4ec475e84dcc8a75a6b710'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef072_000-jc.markers.yaml, hash: 'sha256:4569c7529d92c5b4fbc7403f44bc7ca1435a4fdf05f52faddc5d7d833c935a23'}
+  - {seq: 0, role: markers, filename: assets/KR3ef072_000-jc.markers.yaml, hash: 'sha256:5c0dba8afb00085ded16ecee7478a3f076f28b7bbb6a8ca7ac31cdec236b8bb7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1001,4 +1001,4 @@ table_of_contents:
   label: 暍證
   type: section
   level: 2
-hash: sha256:cfda32035f8e16ba72955f876daef3670477895946ac516303471b47d69638a3
+hash: sha256:c2540ca7ae7e008e7d5ecb561397dc8e2d025553fdb999952c5cb67c79e6b491
